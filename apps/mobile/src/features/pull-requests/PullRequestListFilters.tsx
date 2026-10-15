@@ -1,5 +1,5 @@
 import { ScrollView } from "react-native";
-import type { MenuProps } from "../../components/Menu.types";
+import type { MenuProps } from "../../components/ui/Menu.types";
 import { ListFilterMenu } from "../workspace/ListFilterMenu";
 import { DEFAULT_PR_LIST_CONTROLS, type PullRequestListControls } from "./pullRequestList";
 
